@@ -26,3 +26,4 @@ In this application you will see custom animated button created using Pod. App i
 
 ## Application Recording
 
+[![Simulator-Screen-Recording-i-Phon.gif](https://i.postimg.cc/T2JgY6xL/Simulator-Screen-Recording-i-Phon.gif)](https://postimg.cc/grrnN1nm)
