@@ -1,0 +1,6 @@
+framework module Pods_AnimatedSpinnerButton {
+  umbrella header "Pods-AnimatedSpinnerButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
