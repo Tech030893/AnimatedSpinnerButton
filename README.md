@@ -3,7 +3,7 @@
 In this application you will see custom animated button created using Pod. App is created programmatically without any use of storyboard.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.5
